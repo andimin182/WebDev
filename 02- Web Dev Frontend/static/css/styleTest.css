@@ -1,0 +1,12 @@
+header {
+    color: dimgrey;
+    background-color: khaki;
+    text-align: center;
+}
+
+div {
+    background-color: lightcoral;
+    width: 20%;
+    border: inset mediumblue;
+    display: inline-block;
+}
